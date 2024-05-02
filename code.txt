@@ -1,0 +1,7 @@
+显卡
+
+GPU 仿真器分别使用 OpenGL（最低版本 4.5）、Vulkan 或 Metal（通过 MoltenVK）API 通过 OpenTK 或 Silk.NET 的自定义版本来模拟 Switch 的 Maxwell GPU。 
+
+目前，Ryujinx 中为最终用户提供了六种图形增强功能：磁盘着色器缓存、分辨率缩放、抗锯齿、缩放滤镜（包括 FSR）、各向异性过滤和纵横比调整。 
+
+这些增强功能可以在 GUI 中根据需要进行调整或切换。
